@@ -660,3 +660,4 @@ Dictionary = {
 'email_address': 'ইমেল ঠিকানা',
 'website_url': 'ওয়েবসাইট ইউআরএল'
 }
+print(Dictionary[input("enter a word :")])
