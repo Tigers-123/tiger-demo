@@ -2,7 +2,7 @@
 Author -Yousuf Hasan
 <br>
 This is my first Repository 
-#Dictionary = {
+Dictionary = {
 'zero': 'শূন্য',
 'one': 'এক',
 'two': 'দুই',
